@@ -23,3 +23,4 @@ str = ["y","r","e","w","q","a", "h", "z" ,"b" ,"v" ,"y" ,"x" ]
 print(str[::-1])
 
 print("the answer is", 1089154+3524578)
+
